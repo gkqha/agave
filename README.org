@@ -62,7 +62,7 @@ In each form of packaged distribution, the actual font files are named =agave-?.
 
 Feedback, questions, suggestions, etc. are welcome and encouraged.
 
-Please contact *type agaric* via email at =agaric@protonmail.com=.
+Feel free to use the [[issues][issue tracker]] and contact *type agaric* via email at =agaric@protonmail.com=.
 
 *** thanks
 
