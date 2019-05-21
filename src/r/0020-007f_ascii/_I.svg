@@ -25,12 +25,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(0,995.63782)"
-     id="layer1">
-    <path
-       d="m 160,-739.63778 0,157 267,0 0,965.99996 -267,0 0,157 704,0 0,-157 -267,0 0,-965.99996 267,0 0,-157 z"
-       id="path3157-2"
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
-  </g>
+  <path
+     d="m 354,171 0,170 275,0 0,-170 z m -194,440 0,157 267,0 0,611 -299,0 0,157 768,0 0,-157 -299,0 0,-768 z"
+     id="path4408"
+     style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
 </svg>

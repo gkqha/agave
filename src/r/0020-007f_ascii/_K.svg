@@ -28,14 +28,8 @@
   <g
      transform="translate(0,995.63782)"
      id="layer1" />
-  <g
-     transform="translate(0,995.63782)"
-     id="layer1-46"
-     style="display:inline">
-    <path
-       d="m 732,256 -434,576 0,-576 -170,0 0,1280 170,0 0,-640 454,640 208,0 L 477,855 928,256 z"
-       transform="translate(0,-995.63782)"
-       id="path3157-2-7-7-0-1"
-       style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
-  </g>
+  <path
+     d="m 790,512 -492,368 0,-624 -170,0 0,1280 170,0 0,-624 466,624 196,0 L 497,916 896,618 z"
+     id="path3157-22-8"
+     style="fill:#000000;fill-opacity:1;stroke:none;display:inline" />
 </svg>
